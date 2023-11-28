@@ -10,7 +10,8 @@ flask-sqlalchemy = "*"
 flask-bcrypt = "*"
 flask-jwt-extended = "*"
 python-dotenv = "*"
-sqlalchemy-utils = "*"
+flask-cors = "*"
+flask-talisman = "*"
 
 [dev-packages]
 

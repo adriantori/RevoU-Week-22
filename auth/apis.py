@@ -1,7 +1,6 @@
 from flask import Blueprint, request
 from flask_jwt_extended import create_access_token
 from flask_bcrypt import Bcrypt
-from sqlalchemy.orm import joinedload
 
 from auth.model import User, UserRole
 from db import db
