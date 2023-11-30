@@ -52,7 +52,7 @@ This project implements a Flask-based backend for a ToDo application with user a
 5. **Import Postman Collection:**
    Import the provided Postman collection data located in the root folder.
 
-6. **Access Endpoints:**
+6. **Access Endpoints::**
    
    - Use Postman to interact with the following endpoints:
      - `/register` (POST): Register a new user.
